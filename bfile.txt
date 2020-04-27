@@ -1,2 +1,1 @@
 this is the bfile (correction)
-change b1
