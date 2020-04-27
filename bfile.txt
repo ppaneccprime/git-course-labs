@@ -1,1 +1,2 @@
 this is the bfile (correction)
+and another line for stashing?
