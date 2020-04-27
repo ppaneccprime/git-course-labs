@@ -1,4 +1,4 @@
 some text
 more text on another line
-change 1
-change 2
+change 1 r
+change 2 r
